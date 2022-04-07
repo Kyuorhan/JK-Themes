@@ -2,7 +2,7 @@
     "name": "jk-themes",
     "displayName": "JK Themes",
     "description": "Themes Test",
-    "version": "1.0.2",
+    "version": "1.1.0",
     "icon": "assets/icon.png",
     "publisher": "JhonnyKyuorhan",
     "keywords": [
@@ -21,7 +21,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "JK Themes[LIGHT]",
+                "label": "JK Themes (Light)",
                 "uiTheme": "vs",
                 "path": "./themes/JK-color-theme.json"
             }

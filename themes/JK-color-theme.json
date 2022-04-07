@@ -1,12 +1,19 @@
 {
-	"name": "JK",
+	"name": "JK Themes (Light)",
 	"colors": {
-    "list.activeSelectionIconForeground": "#fff",
+     "list.activeSelectionIconForeground": "#fff",
 		"activityBar.background": "#24292f",
 		"activityBarBadge.background": "#4B76CF",
 		"activityBarBadge.foreground": "#ffffff",
+		// "activityBar.foreground": "#ffffff",
+
+		"badge.background": "#ff5f5f",
+		"badge.foreground": "#ffffff",
+		
 		"diffEditor.insertedTextBackground": "#09e79d13",
+
 		"dropdown.background": "#f6f8fa",
+
 		"editor.background": "#f6f8fa",
 		"editor.foreground": "#24292f",
  		"editor.lineHighlightBackground": "#efefefb0",
@@ -21,46 +28,85 @@
 		"editorLineNumber.activeForeground": "#818ca6",
 		"editorLineNumber.foreground": "#3D4D67",
 		"editorSuggestWidget.background": "#f6f8fa",
+		
 		"foreground": "#24292f", 
+
 		"gitDecoration.ignoredResourceForeground": "#3D4D67",
 		"gitDecoration.modifiedResourceForeground": "#E3C18A",
 		"gitDecoration.untrackedResourceForeground": "#50fa7b",
+
 		"input.background": "#efefefb0",
 		"input.border": "#ff5f5f",
-		"input.foreground": "#efefefb0",
+		"input.foreground": "#3D4D67",
 		"input.placeholderForeground": "#3D4D67",
+
 		"list.activeSelectionBackground": "#e5e5e5",
 		"list.activeSelectionForeground": "#ff5f5f",
 		"list.focusBackground": "#3D4D67",
 		"list.hoverBackground": "#eaeaea",
 		"list.inactiveSelectionBackground": "#e5e5e5",
-		"list.inactiveSelectionForeground": "#ff5f5f",
-		// "panel.background": "#1C212E",
-		// "panel.border": "#1A1F2E",
-		// "pickerGroup.foreground": "#FFE792",
-		// "scrollbar.shadow": "#e2e2e2e0",
-		// "scrollbarSlider.activeBackground": "#e2e2e2e0",
-		// "scrollbarSlider.background": "#e2e2e2e0",
-		// "scrollbarSlider.hoverBackground": "#e2e2e2e0",
+		"list.inactiveSelectionForeground": "#ff5f5f", 
+		
+		"panel.background": "#f6f8fa",
+		"panel.border": "#b2b2b2",
+		"panelTitle.activeBorder": "#ff5f5f",
+		"panelTitle.activeForeground": "#24292f",
+		"panelTitle.inactiveForeground": "#b2b2b2",
+	
+		"pickerGroup.border": "#FFE792",
+
+		"scrollbar.shadow": "#e2e2e25b",
+		"scrollbarSlider.activeBackground": "#e2e2e25b",
+		"scrollbarSlider.background": "#e2e2e25b",
+		"scrollbarSlider.hoverBackground": "#e2e2e25b",
+		
 		"sideBar.background": "#f2f2f2",
 		"sideBarSectionHeader.background": "#e5e5e5",
 		"sideBarTitle.foreground": "#f30f4c",
+
 		"statusBar.background": "#ff5f5f",
 		"statusBar.border": "#ff5f5f",
-		"statusBar.foreground": "#282a36",
+		"statusBar.foreground": "#f0f0f0",
+		"statusBar.debuggingBackground": "#818CA6",
+		"statusBar.debuggingBorder": "#818CA6",
+		"statusBar.debuggingForeground": "#f0f0f0",
 		"statusBar.noFolderBackground": "#ff5f5f",
-		// "tab.activeBackground": "#e5e5e5",
+		// "statusBar.noFolderForeground": "#818CA6",
+		// "statusBar.noFolderBorder": "#818CA6",
+		
+		"tab.activeBackground": "#e5e5e5",
 		"tab.activeBorder": "#ff5f5f",
 		"tab.border": "#e5e5e5",
 		"tab.inactiveBackground": "#f2f2f2",
 		"tab.inactiveForeground": "#ff5f5f",
+		// "tab.unfocusedActiveBackground": "#f2f2f2",	
 		"tab.unfocusedInactiveForeground": "#818CA6",
-		// "terminal.background": "#1C212E",
+
+		// "terminal.background": "#f2f2f2",
+		// "terminal.border": "#ff0000",
+		"terminal.foreground": "#282a36",
+		"terminal.selectionBackground": "#e5e5e5",
+		"terminalCursor.foreground": "#f30f4c",
+		"terminalOverviewRuler.cursorForeground": "#ff0000",
+
 		// "titleBar.activeBackground": "#1C212E",
 		// "titleBar.activeForeground": "#818CA6",
 		// "titleBar.inactiveBackground": "#1C212E",
 		// "titleBar.inactiveForeground": "#818CA6",
-		"widget.shadow": "#11141ab3"		 
+		
+		"widget.shadow": "#d0d0d0",
+		"editor.focusedStackFrameHighlightBackground": "#ff0000",
+		"editorSuggestWidget.border": "#ff5f5f",
+		"editorSuggestWidget.foreground": "#24292f",
+		"editorSuggestWidget.highlightForeground": "#ff5f5f",
+
+		"editor.findMatchBackground": "#ff5f5f",
+		"editor.findMatchHighlightBackground": "#ff5f5f",
+		"editor.findMatchHighlightBorder": "#ff5f5f",
+		"editor.findRangeHighlightBackground": "#ff5f5f",
+		"editor.findRangeHighlightBorder": "#ff5f5f",
+		"editor.findMatchBorder": "#ff5f5f"
+	
 	},
 	"tokenColors": [
 		{
