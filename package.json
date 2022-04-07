@@ -2,9 +2,16 @@
     "name": "jk-themes",
     "displayName": "JK Themes",
     "description": "Themes Test",
-    "version": "0.0.1",
+    "version": "1.0.2",
     "icon": "assets/icon.png",
-    "publisher": "Kyuorhan",
+    "publisher": "JhonnyKyuorhan",
+    "keywords": [
+        "jk-themes", 
+        "light theme",
+        "jk themes",
+        "jk themes light",
+        "jhonny kyuorhan",
+        "kyuorhan"],
     "engines": {
         "vscode": "^1.66.0"
     },
@@ -14,7 +21,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "JK",
+                "label": "JK Themes[LIGHT]",
                 "uiTheme": "vs",
                 "path": "./themes/JK-color-theme.json"
             }
