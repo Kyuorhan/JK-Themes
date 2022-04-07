@@ -1,0 +1,24 @@
+{
+    "name": "jk-themes",
+    "displayName": "JK Themes",
+    "description": "Themes Test",
+    "version": "0.0.1",
+    "icon": "assets/icon.png",
+    "publisher": "Kyuorhan",
+    "engines": {
+        "vscode": "^1.66.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "JK",
+                "uiTheme": "vs",
+                "path": "./themes/JK-color-theme.json"
+            }
+        ]
+    },
+    "license": "MIT"
+}
