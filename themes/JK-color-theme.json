@@ -25,7 +25,7 @@
 		"gitDecoration.modifiedResourceForeground": "#e4b340",
 		"gitDecoration.untrackedResourceForeground": "#50fa7b",
 		"input.background": "#efefefb0",
-		"input.border": "#ff5f5f",
+		"input.border": "#ff7070",
 		"input.foreground": "#efefefb0",
 		"input.placeholderForeground": "#3D4D67",
 		"list.activeSelectionBackground": "#e5e5e5",
@@ -495,7 +495,7 @@
 		{
 		  "scope": "token.error-token",
 		  "settings": {
-			"foreground": "#f44747"
+			"foreground": "#f54040"
 		  }
 		},
 		{
@@ -649,7 +649,7 @@
 		{
 		  "scope": ["text.html.markdown entity.name.tag.yaml"],
 		  "settings": {
-			"foreground": "#97a7c8"
+			"foreground": "#8da0c9"
 		  }
 		}
 	  ]	
